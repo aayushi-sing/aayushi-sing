@@ -1,17 +1,14 @@
+### AI & backend systems builder — I turn ideas into things that actually run.
 
+I build software across the AI and backend stack — LLM-powered systems, retrieval pipelines, and the APIs and services that support them.
 
-### AI systems builder — multi-agent pipelines, RAG, and evaluation-driven development.
-
-I build LLM agent systems and retrieval pipelines, and I care more about whether they fail gracefully than whether the demo looks good.
-
-**Currently building**
-- [ScoutAgent](https://github.com/aayushi-sing/scoutagent) — a six-agent CrewAI pipeline (plan → research → analyze → critique → report) for autonomous startup research, grounded in live web data. [Live demo](https://scout-agent.streamlit.app/)
-- [Research Memory Agent](https://github.com/aayushi-sing/research_memory_agent) — a persistent RAG system that reasons across previously uploaded documents, with cross-document concept discovery and contradiction detection. [Live demo](https://research-memory-agent.streamlit.app/)
+**Selected work**
+- [ScoutAgent](https://github.com/aayushi-sing/scoutagent) — a multi-agent research pipeline that plans, researches, analyzes, and reports autonomously, grounded in live web data. [Live demo](https://scout-agent.streamlit.app/)
+- [Research Memory Agent](https://github.com/aayushi-sing/research_memory_agent) — a retrieval system that reasons across documents over time, with cross-document concept discovery and contradiction detection. [Live demo](https://research-memory-agent.streamlit.app/)
+- [Task Management API](https://github.com/aayushi-sing/task-manager-api) — a FastAPI backend with role-based access control, full CRUD, and 51 automated tests.
 
 **How I work**
-I treat evaluation and failure-case analysis as part of building the system, not an afterthought — tracking things like malformed model output, latency, and where a pipeline breaks under real inputs, not just whether the happy path works.
+I treat evaluation and failure-case analysis as part of building, not an afterthought — tracking where a system breaks under real inputs, not just whether the happy path works.
 
 **Stack**
-`Python` · `CrewAI` · `LangChain` · `FastAPI` · `ChromaDB` · `OpenRouter` · `Groq` · `ONNX Runtime`
-
-[github.com/aayushi-sing](https://github.com/aayushi-sing)
+`Python` · `FastAPI` · `CrewAI` · `LangChain` · `ChromaDB` · `SQL` · `Git`
