@@ -16,4 +16,4 @@ and backend services with a focus on reliability, evaluation, and practical depl
 
 ### Stack
 
-Python · FastAPI · CrewAI · LangChain · RAG · ChromaDB · SQL · Git
+Python · FastAPI · LLMs ·  RAG · CrewAI · LangChain ·  ChromaDB · SQL · Git
