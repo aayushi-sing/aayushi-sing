@@ -1,14 +1,21 @@
-### AI & backend systems builder — I turn ideas into things that actually run.
+# Aayushi Singh
 
-I build software across the AI and backend stack — LLM-powered systems, retrieval pipelines, and the APIs and services that support them.
+### Applied AI & Software Engineer
 
-**Selected work**
-- [ScoutAgent](https://github.com/aayushi-sing/scoutagent) — a multi-agent research pipeline that plans, researches, analyzes, and reports autonomously, grounded in live web data. [Live demo](https://scout-agent.streamlit.app/)
-- [Research Memory Agent](https://github.com/aayushi-sing/research_memory_agent) — a retrieval system that reasons across documents over time, with cross-document concept discovery and contradiction detection. [Live demo](https://research-memory-agent.streamlit.app/)
-- [Task Management API](https://github.com/aayushi-sing/task-manager-api) — a FastAPI backend with role-based access control, full CRUD, and 51 automated tests.
+I build LLM-powered applications, multi-agent systems, retrieval pipelines,
+and backend services with a focus on reliability, evaluation, and practical deployment.
 
-**How I work**
-I treat evaluation and failure-case analysis as part of building, not an afterthought — tracking where a system breaks under real inputs, not just whether the happy path works.
+[Portfolio](YOUR_PORTFOLIO_URL) · [Resume](YOUR_PORTFOLIO_URL/resume.pdf) · [LinkedIn](YOUR_LINKEDIN_URL)
 
-**Stack**
-`Python` · `FastAPI` · `CrewAI` · `LangChain` · `ChromaDB` · `SQL` · `Git`
+---
+
+### What I build
+
+- **AI Agents** — multi-agent workflows, tool calling, orchestration
+- **RAG Systems** — semantic retrieval, vector databases, cross-document reasoning
+- **Backend Systems** — REST APIs, authentication, databases, testing
+- **AI Reliability** — evaluation, failure analysis, latency and resource optimization
+
+### Stack
+
+Python · FastAPI · CrewAI · LangChain · RAG · ChromaDB · SQL · Git
