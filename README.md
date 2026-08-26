@@ -1,19 +1,17 @@
-# Aayushi Singh
+# Hi, I'm Aayushi 👋
 
-### Applied AI & Software Engineer
+I'm a Computer Science graduate interested in building software with Python.
 
-I build LLM-powered applications, multi-agent systems, retrieval pipelines,
-and backend services with a focus on reliability, evaluation, and practical deployment.
+I enjoy working on backend applications, APIs, testing, and AI-based projects. 
+Most of my projects are things I built to learn something new or solve a practical problem.
 
----
+### What I work with
 
-### What I build
+- Python, C++, SQL
+- FastAPI, Flask, REST APIs
+- Pytest and API testing
+- MySQL, PostgreSQL, SQLite
+- Git and GitHub
+- RAG, LLMs, NLP
 
-- **AI Agents** — multi-agent workflows, tool calling, orchestration
-- **RAG Systems** — semantic retrieval, vector databases, cross-document reasoning
-- **Backend Systems** — REST APIs, authentication, databases, testing
-- **AI Reliability** — evaluation, failure analysis, latency and resource optimization
-
-### Stack
-
-Python · FastAPI · LLMs ·  RAG · CrewAI · LangChain ·  ChromaDB · SQL · Git
+I'm currently looking for opportunities where I can work on real software, learn from experienced engineers, and contribute to production systems.
